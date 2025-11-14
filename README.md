@@ -134,7 +134,7 @@ $\mathrm{Var}(S_{MC}) \propto \frac{S_{\text{target}}}{S_{\text{rect}}} \cdot \f
 
 $δ(N)= \frac{ |S_{MC} - S_{exact}|}{S_{exact}}$ ​
 
-![file:/Users/amir/2%20course/АиСД/set_hm/set_3/task_a/task_a1i/plot_error_narrow.png](file:///Users/amir/2%20course/%D0%90%D0%B8%D0%A1%D0%94/set_hm/set_3/task_a/task_a1i/plot_error_narrow.png)
+![график 1](plot_area_narrow.png)
 ![file:/Users/amir/2%20course/АиСД/set_hm/set_3/task_a/task_a1i/plot_error_wide.png](file:///Users/amir/2%20course/%D0%90%D0%B8%D0%A1%D0%94/set_hm/set_3/task_a/task_a1i/plot_error_wide.png)
 
  Наблюдения:
